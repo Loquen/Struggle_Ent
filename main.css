@@ -98,8 +98,9 @@ body{
 	height:340px;
 	width: 500px;
 	margin-top: 20px;
-	right: 75px;
-	position: absolute;
+	margin-right: 50px;
+	float: right;
+	position: relative;
 	display: inline-block;
 	border: 2px solid #FF6666;
 	border-radius: 5px;
@@ -121,6 +122,7 @@ body{
 	width: 700px;
 	margin-top: 30px;
 	margin-left: 25px;
+	float: left;
 	border: 2px solid #FF6666;
 	border-radius: 5px;
 	padding: 5px 0px 0px 5px;
@@ -134,20 +136,22 @@ body{
 	height: 330px;
 	width: 500px;
 	margin-top: 20px;
-	right: 75px;
-	top: 800px;
-	position: absolute;
+	margin-right: 50px;
+	position: relative;
+	float: right;
 	border: 2px solid #FF6666;
 	border-radius: 5px;
 	padding: 5px 0px 0px 5px;
 }
 
-.hot{
+#hot{
 	height: 150px;
-	width: 300px;
-	right: 275px;
-	top: 1180px;
-	position: absolute;
+	width: 500px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 50px;
+	float: right;
+	position: relative;
 	border: 2px solid #FF6666;
 	border-radius: 5px;
 	padding: 5px 0px 0px 5px;
