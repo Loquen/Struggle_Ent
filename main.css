@@ -133,7 +133,7 @@ body{
 }
 
 .artist{
-	height: 330px;
+	height: 340px;
 	width: 500px;
 	margin-top: 20px;
 	margin-right: 50px;
@@ -144,7 +144,7 @@ body{
 	padding: 5px 0px 0px 5px;
 }
 
-#hot{
+.hot{
 	height: 150px;
 	width: 500px;
 	margin-top: 20px;
@@ -172,6 +172,7 @@ body{
 	color: #FF6666;
 	font-weight: bold;
 	font-size: 30px;
+	margin-bottom: 10px
 }
 
 .title2{
